@@ -2,7 +2,7 @@
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" height="50px"/> Hi there, I'm Abdur Rab Khan
 </h1>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdurrabkhan3263@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdurrabkhan.dev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rab-khan-188a672a7/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/786Abdurrabkhan)
 
