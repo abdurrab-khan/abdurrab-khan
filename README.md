@@ -3,19 +3,16 @@
 </h1>
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdurrabkhan.dev@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rab-khan-188a672a7/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/786Abdurrabkhan)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrabkhan/?skipRedirect=true/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdurrabkhan01)
 
 
 <h3 align="center">
-Full-stack web developer passionate about building responsive, scalable apps using the MERN stack, Next.js, and modern UI tools.
+Full-Stack Developer building fast, clean, and production-ready web apps.
+TypeScript · React.js · Next.js · Node.js · PostgreSQL · MongoDB · Redis
 </br>
 </br>
 </h3>
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧑🏻‍💻 Languages && Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
